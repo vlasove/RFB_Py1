@@ -1,0 +1,14 @@
+{
+    "user": {
+        "id": 1,
+        "login": "asdvz",
+        "password": 218321,
+        "is_active": true,
+        "qwe": null
+    },
+    "interests": [
+        "sport",
+        "age",
+        "code"
+    ]
+}
